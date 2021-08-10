@@ -1,0 +1,42 @@
+h2{
+  margin-left: 400px;
+}
+h4{
+  margin-left: 350px;
+}
+
+.header{
+  background-color: cadetblue;
+  display: flex;
+  justify-content:space-between;
+  align-content: center;
+ }
+ .bodyimg{
+   border: 2px solid black;
+   border-radius: 20px;
+   background-color: cornflowerblue;
+ }
+ .camel{
+  border: 2px solid black;
+   border-radius: 20px;
+ background-color: white;
+ width:310px;
+ font-family : fantasy;
+ margin-left: 50px;
+ display: flex; 
+ flex-wrap:wrap ;
+ justify-content: space-evenly;
+ }
+
+ .sitedescription{
+  display: flex;
+  flex-direction:column;
+justify-content: space-around;
+ }
+ .d{
+   margin-left: 550px;
+ }
+ .a{
+   margin-left: 530px;
+ }
+ 
